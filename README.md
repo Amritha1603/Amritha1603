@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amritha M L</h1>
-<h3 align="center">Undergraduate student specializing in Artificial Intelligence and Machine Learning at APJ Abdul Kalam Technological University.</h3>
+- Undergraduate student specializing in Artificial Intelligence and Machine Learning at APJ Abdul Kalam Technological University.</h3>
 
 - 🔭 Previously worked on **CHROMA**
 
